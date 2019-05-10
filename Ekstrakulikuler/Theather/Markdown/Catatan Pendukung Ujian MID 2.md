@@ -1,4 +1,4 @@
-# Catatan Pendukung - Theather [EKSTRAKULIKULER]
+# Catatan Pendukung Ujian MID II - Theather [EKSTRAKULIKULER]
 
 **Pelatihan dasar berikut ini dapat dilakukan oleh calon aktor:**
 
@@ -72,7 +72,6 @@ dari hal-hal yang klise.
 
 **Improvisational Comedy** (komedi improvisasi) adalah lakon komedi yang tidak terencana.
 
-
 **Drama dapat dibedakan menjadi delapan jenis, yaitu:**
 - Tragedi: drama yang penuh dengan kesedihan
 - Komedi: drama penggeli hati yang penuh dengan kelucuan.
@@ -119,4 +118,9 @@ Hal-hal yang menandai tokoh utama dalam sebuah teks adalah
 3. Kejadian-kejadian yang melibatkan tokoh lain selalu dapat dihubungkan dengan peran tokoh utama
 4. Dialog-dialog yang dilibatkan tokoh-tokoh lain selalu berkaitan dengan peran tokoh utama.
 
-Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/701370#readmore
+**Apa yang dimaksud dengan Tokoh Sentral, Bawahan dan Latar**
+-Tokoh sentral, merupakan tokoh yang amat potensial menggerakkan alur. Tokoh sentral mempunyai potensi yang dipandang dapat menghasilkan atau menguntungkan. Tokoh merupakan pusat cerita, penyebab kemunculan konflik.
+
+-Tokoh bawahan, merupakan tokoh yang tidak begitu besar pengaruhnya terhadap perkembangan alur meskipun tokoh bawahan juga terlibat dalam pengembangan alur.
+
+-Tokoh latar, merupakan tokoh yang sama sekali tidak berpengaruh terhadap perkembangan alur. Kehadiran tokoh latar hanya sebagai pelengkap latar. Tokoh latar berfungsi menghidupkan latar.
