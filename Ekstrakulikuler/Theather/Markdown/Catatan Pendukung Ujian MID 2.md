@@ -102,9 +102,9 @@ Jenis drama selanjutnya adalah, berdasarkan ada atau tidaknya naskah drama. P
 - Amanat drama adalah pesan yang ingin disampaikan pengarang kepada penonton. Amanat drama atau pesan disampaikan melalui peran para tokoh drama.
 
 
-Salah satu unsur instrinsik dari sebuah drama adalah penokohan.
+**Salah satu unsur instrinsik dari sebuah drama adalah penokohan.**
 
-Tokoh, berdasarkan perannya dibagi menjadi dua, yaitu:
+**Tokoh, berdasarkan perannya dibagi menjadi dua, yaitu:**
 1. Tokoh utama
 Tokoh utama adalah tokoh yang menjadi sentral dalam cerita drama.
 2. Tokoh pembantu
@@ -112,7 +112,7 @@ Tokoh pembantu adalah tokoh yang dilibatkan atau dimunculkan untuk mendukung jal
 
 Tokoh pembantu disebut juga dengan tokoh figuran, tetapi ada beberapa referensi yang menyebutnya berbeda. Tokoh figuran adalah tokoh yang dilibatkan atau dimunculkan untuk mendukung jalan cerita TETAPI tidak memiliki kaitan dengan tokoh utama.
 
-Hal-hal yang menandai tokoh utama dalam sebuah teks adalah
+**Hal-hal yang menandai tokoh utama dalam sebuah teks adalah**
 1. Sering muncul dalam setiap adegan atau paling sering disebut dalam teks cerita
 2. Menjadi sentral atau pusat perhatian tokoh-tokoh yang lain
 3. Kejadian-kejadian yang melibatkan tokoh lain selalu dapat dihubungkan dengan peran tokoh utama
