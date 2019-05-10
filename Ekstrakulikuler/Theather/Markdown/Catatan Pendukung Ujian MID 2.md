@@ -37,16 +37,16 @@ Meditasi berguna untuk melatih konsentrasi dan kepekaan baik. Sehingga pada saat
 **Pengertian Blocking**
 Blocking adalah kedudukan tubuh pada saat di atas panggung dan, dan yang di maksud blocking yang benar adalah blocking tersebut harus simbang, utuh, bervariasi dan memiliki titik pusat perhatian. Teknik ini menjadi tolak ukur seorang pemain dalam pementasan seni teater. 
 
-	- **Seimbang**
+- **Seimbang**
 	Seimbang berarti kedudukan pemain di atas panggung termasuk juga beda atau properti tidak di kelompokan di suatu tempat sehinggga mengakibatkan adanya kesan berat sebelah, berat sebelah sendiri bisa di artikan kita mengimbangi properti atau pemain yang berdialog saat di atas panggung agar panggung tidak ada ruang yang terlihat kosong.
 
-	- **Utuh** 
+- **Utuh** 
 	Utuh disini adalah blocking yang di tampilkan hendaknya merupakan suatu kesatuan, semua penempatan dan gerak harus dilakukan saling menunjang dan tidak saling menutupi. Maksudnya blocking yang di lakukan tidak mengalami berat sebelum tetap seimbang di antara keduannya.
 
-	- **Bervariasi**
+- **Bervariasi**
 	Bervariasi adalah ketika melakukan blocking tidak hanya menuju ke satu arah, dengan mengubah arah penonton takkan menyadari bahwa itu blocking, begitupun pada gerakan, lakukan gerakan yang sewajarnya ketika melakukan blocking. 
 
-	- **Memiliki Titik Pusat Perhatian**
+- **Memiliki Titik Pusat Perhatian**
 	Memiliki titik pusat perhatian adalah ketika melakukan bloking masih dengan pusat perhatian penonton yang menuju kearah pemain, maka dari pada itu harus tetap melakukan gerak yang sewajarnya tidak over dalam melakukan gerak. 
 
 **Tugas seorang sutradara dalam pementasan drama**
