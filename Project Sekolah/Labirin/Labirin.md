@@ -1,4 +1,4 @@
-# Project Labirin dari Botol Aqua
+# Labirin dari Botol Aqua
 
 Lihat `denah.cdr` untuk denah labirin yang telah disesuaikan dengan skala asli.  
 Lihat `konsep_denah.jpg` untuk denah labirin gambaran tangan.  
