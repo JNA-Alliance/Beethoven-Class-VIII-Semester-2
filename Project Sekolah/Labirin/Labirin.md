@@ -1,7 +1,11 @@
 # Labirin dari Botol Aqua
 
 Lihat `denah.cdr` untuk denah labirin yang telah disesuaikan dengan skala asli.  
-Lihat `konsep_denah.jpg` untuk denah labirin gambaran tangan.  
+Lihat `konsep_denah.jpg` untuk denah labirin gambaran tangan. 
+
+# Area Kerja
+Bersih: 5 x 8 meter
+Kotor: 6 x 9 meter
 
 ## Catatan:
 - Konsep penumpukan botol akan segera diterbitkan.
