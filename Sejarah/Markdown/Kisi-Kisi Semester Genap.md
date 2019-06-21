@@ -23,10 +23,10 @@
 23. Surat Kabar Darmo Kondo dikelola oleh **Budi Utomo**
 24. Faktor eksternal pendorong pergerakan nasional adalah **Kemenangan Jepang atas Rusia**
 25. Ketua Kongres Pemuda I adalah **Mohammad Tabrani**
-26. Tulisan Als ik eens Nederlander was ditujukan untuk **Menyindir Belanda yang memperingati kemerdekaan ke-100 di Indonesia **
+26. Tulisan Als ik eens Nederlander was ditujukan untuk **Menyindir Belanda yang memperingati kemerdekaan ke-100 di Indonesia**
 27. Tugas utama Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia adalah **Mempelajari hal-hal yang berkaitan dengan negara Indonesia merdeka**
 28. Salah satu kebijakan Jend. Koiso yangb berbeda dengan para pendahulunya mengenai tanah jajahan Indonesia, yaitu **Memberikan janji kemerdekaan**
-29. Rumusan sila dasar negara dalam Piagam Jakarta yang diganti pada awalnya berbunyi **Ketuhanan dengan kewajiban menjalankan syariat-syariat Islam bagi para pemeluknya **
+29. Rumusan sila dasar negara dalam Piagam Jakarta yang diganti pada awalnya berbunyi **Ketuhanan dengan kewajiban menjalankan syariat-syariat Islam bagi para pemeluknya**
 30. Faktor utama yang menyebabkan Jepang menyerah kepada Sekutu yaitu **Dibomnya Kota Hiroshima dan Nagasaki**
 31. Sidang BPUPKI pada tanggal 29 Mei – 1 Juni 1945 menampilkan 3 pembicara mengenai dasar negara, yaitu **Mr. Mohammad Yamin, Prof. Dr. Mr. Soepomo, Ir. Soekarno**
 32. Panitia Sembilan menggodok rumusan hasil siding BPUPKI yang oleh Mohammad Yamin diberi nama **Piagam Jakarta**
